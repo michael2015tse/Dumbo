@@ -24,7 +24,6 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.svm import SVC
 from sklearn import metrics
 from sklearn.linear_model import LogisticRegression
-
 import traceback
 
 
